@@ -1,0 +1,760 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"name": "岳麓山",
+				"address": "湖南省长沙市岳麓区登高路58号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.935062,
+					28.183693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "橘子洲头",
+				"address": "湖南省长沙市岳麓区橘子洲头2号橘子洲风景名胜区内(南侧)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.963133,
+					28.195919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南省博物院",
+				"address": "湖南省长沙市开福区东风路50号 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.993415,
+					28.211864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "天心阁",
+				"address": "湖南省长沙市天心区天心路17号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.981891,
+					28.184764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙世界之窗",
+				"address": "湖南省长沙市开福区三一大道485号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.054858,
+					28.236761
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "烈士公园",
+				"address": "湖南省长沙市开福区东风路22号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.993058,
+					28.208941
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "古开福寺",
+				"address": "湖南省长沙市开福区开福寺路152号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978348,
+					28.224419
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南松雅湖国家湿地公园",
+				"address": "湖南省长沙市长沙县星沙街道滨湖东路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.099344,
+					28.270573
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "五一广场",
+				"address": "湖南省长沙市芙蓉区黄兴中路88号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.977336,
+					28.196532
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "杜甫江阁",
+				"address": "湖南省长沙市天心区湘江中路二段108号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.968613,
+					28.184451
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南省植物园",
+				"address": "湖南省长沙市雨花区植物园路111号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.031787,
+					28.103242
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南省地质博物馆",
+				"address": "湖南省长沙市天心区杉木冲西路49号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.982237,
+					28.107461
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "梅溪湖公园",
+				"address": "湖南省长沙市岳麓区梅溪湖路(近汽车西站)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.902206,
+					28.193031
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "谢子龙影像艺术",
+				"address": "湖南省长沙市岳麓区潇湘南路一段387号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.947112,
+					28.117818
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙洋湖湿地公园",
+				"address": "湖南省长沙市岳麓区洋湖大道680号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.927672,
+					28.125861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南美术馆",
+				"address": "湖南省长沙市岳麓区靳江路2号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.949597,
+					28.152767
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南湘绣博物馆",
+				"address": "湖南省长沙市芙蓉区车站北路39号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.009791,
+					28.198583
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "隆平水稻博物馆",
+				"address": "湖南省长沙市芙蓉区张公岭路(隆平水稻博物馆地铁站2A口步行60米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.058878,
+					28.190519
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "铜官窑古镇国风乐园",
+				"address": "湖南省长沙市望城区铜官街道湘江大道景观道长沙新华联铜官窑售楼部旁"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.838132,
+					28.409782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "月湖公园",
+				"address": "湖南省长沙市开福区万家丽北路与三一大道交汇处西北角"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.033005,
+					28.237565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "太平老街历史文化街区",
+				"address": "湖南省长沙市天心区五一大道与太平街交叉口西南50米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.976191,
+					28.193534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南门口",
+				"address": "湖南省长沙市天心区南门口1662主题购物中心(南门口地铁站1号口旁)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972046,
+					28.18347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "黄兴广场",
+				"address": "湖南省长沙市天心区黄兴中路与人民西路交汇处90米(黄兴广场地铁站2号口旁)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.976426,
+					28.189422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "潮宗街历史文化街区",
+				"address": "湖南省长沙市开福区潮宗街22号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973776,
+					28.193534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "太平老街历史文化街区",
+				"address": "湖南省长沙市天心区五一大道与太平街交叉口西南50米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972046,
+					28.201937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "桃花岭景区",
+				"address": "湖南省长沙市岳麓区梅溪湖路与近湖四路交叉口东南150米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.902713,
+					28.174049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "寨子岭森林公园",
+				"address": "湖南省长沙市岳麓区含浦大道南"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.920222,
+					28.152408
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "后湖国际艺术园",
+				"address": "湖南省长沙市岳麓区"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.942882,
+					28.160959
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "咸嘉湖景区",
+				"address": "湖南省长沙市岳麓区枫林一路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.941716,
+					28.209027
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "谷山森林公园",
+				"address": "湖南省长沙市岳麓区谷山寺路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.907727,
+					28.256213
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "汉长沙国考古遗址公园",
+				"address": "湖南省长沙市岳麓区北二环与银杉路交汇"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.938283,
+					28.26589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "乌山森林公园",
+				"address": "湖南省长沙市望城区乌山街道普瑞西路与黄桥大道西南方向"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.795632,
+					28.295822
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "茶亭花海",
+				"address": "湖南省长沙市望城区S102(芙蓉大道)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.936738,
+					28.492219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大王山旅游度假区",
+				"address": "湖南省长沙市岳麓区"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.873801,
+					28.059203
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大石坝森林公园",
+				"address": "湖南省长沙市岳麓区莲花镇桐木村(莲花入口)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.720291,
+					28.077228
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "毛栗冲森林公园",
+				"address": "岳麓区许广高速与岳宁大道附近"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.76355,
+					28.130226
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "泉水冲森林公园",
+				"address": "湖南省长沙市岳麓区500乡道旁边"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.670166,
+					28.126895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "月亮岛",
+				"address": "湖南省长沙市望城区湘江西岸"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.935663,
+					28.298621
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "秀峰山公园",
+				"address": "湖南省长沙市开福区秀峰路69号芙蓉北路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.977033,
+					28.290459
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙园林生态园",
+				"address": "湖南省长沙市开福区捞刀河街道罗汉庄、伍家岭村"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.040205,
+					28.295296
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙汉回民俗文化景区",
+				"address": "湖南省长沙市开福区捞刀河镇汉回村"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.03866,
+					28.317928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙汉回民俗文化景区",
+				"address": "湖南省长沙市开福区捞刀河镇汉回村"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.03866,
+					28.317928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙黑麋峰森林公园",
+				"address": "湖南省长沙市望城区桥驿镇黑麋峰国家森林公园景区"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.000146,
+					28.444548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "浔龙河生态艺术小镇",
+				"address": "湖南省长沙市长沙县果园镇浔龙河村"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.193374,
+					28.348291
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙石燕湖生态旅游景区",
+				"address": "长沙石燕湖生态旅游景区"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.086944,
+					28.007526
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "白泉森林公园",
+				"address": "湖南省长沙市岳麓区长潭西高速与082县道东南角"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.922321,
+					27.987215
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湖南广电中心大楼",
+				"address": "湖南省长沙市开福区安居路与传媒路交叉口南140米村"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.046404,
+					28.236486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "IFS国金中心",
+				"address": "芙蓉区解放西路188号(五一广场地铁站国金街11号口旁)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978623,
+					28.192506
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "靖港古镇",
+				"address": "湖南省长沙市望城区靖港镇"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.790083,
+					28.457064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "万家丽国际购物广场",
+				"address": "湖南省长沙市芙蓉区万家丽中路99号(万家丽广场地铁站3号口步行50米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.032088,
+					28.189924
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙北辰三角洲大悦城",
+				"address": "湖南省长沙市开福区湘江大道1500号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978497,
+					28.238259
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "四方坪夜市",
+				"address": "湖南省长沙市开福区先福路(四方坪地铁站3号口步行410米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.009108,
+					28.234962
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "扬帆夜市",
+				"address": "湖南省长沙市芙蓉区东屯渡街道扬帆小区E区"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.038602,
+					28.190031
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湘江江滩公园",
+				"address": "湖南省长沙市岳麓区潇湘中路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.953838,
+					28.146808
+				]
+			}
+		},
+	]
+}

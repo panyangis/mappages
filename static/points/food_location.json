@@ -1,0 +1,1708 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.976478, 28.195724999999999]
+		},
+		"properties": {
+			"name": "长沙文和友(海信广场长沙店)",
+			"lng": 112.976478,
+			"lat": 28.195724999999999,
+			"address": "湘江中路36号海信广场1-6楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98348300000001, 28.214032]
+		},
+		"properties": {
+			"name": "鲁哥饭店(北正街店)",
+			"lng": 112.98348300000001,
+			"lat": 28.214032,
+			"address": "通泰街街道湘春路234号D栋103号门面"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.093248, 28.238726]
+		},
+		"properties": {
+			"name": "晴溪莊园(星沙店)",
+			"lng": 113.093248,
+			"lat": 28.238726,
+			"address": "星沙大道20号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.949872, 28.17436]
+		},
+		"properties": {
+			"name": "饭怕鱼(湖大店)",
+			"lng": 112.949872,
+			"lat": 28.17436,
+			"address": "麓山南路299号渔湾码头时尚商业广场3楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.985288, 28.107908999999999]
+		},
+		"properties": {
+			"name": "我家小院(新姚路店)",
+			"lng": 112.985288,
+			"lat": 28.107908999999999,
+			"address": "桂花坪街道新姚南路199号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.09193, 28.248999000000001]
+		},
+		"properties": {
+			"name": "秦皇食府(星沙店)",
+			"lng": 113.09193,
+			"lat": 28.248999000000001,
+			"address": "星沙大道141号未来现代城A栋1-4层底商（地铁3号线星沙站1号口直行100米）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.948098, 28.238596999999999]
+		},
+		"properties": {
+			"name": "湘高记海鲜加工坊(市府店)",
+			"lng": 112.948098,
+			"lat": 28.238596999999999,
+			"address": "观沙路八方小区A区东门东南60米"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98489600000001, 28.199009]
+		},
+		"properties": {
+			"name": "壹盏灯(蚂蚁工房店)",
+			"lng": 112.98489600000001,
+			"lat": 28.199009,
+			"address": "东牌楼街111号蚂蚁工房2楼3楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01367500000001, 28.125052]
+		},
+		"properties": {
+			"name": "天然台1908(中建广场店)",
+			"lng": 113.01367500000001,
+			"lat": 28.125052,
+			"address": "正塘坡路69号长沙中建万怡酒店东北角3楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.990852, 28.184701]
+		},
+		"properties": {
+			"name": "新怡园酒楼(贺龙店)",
+			"lng": 112.990852,
+			"lat": 28.184701,
+			"address": "芙蓉中路贺龙体育馆火炬台旁"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.04082699999999, 28.198571000000001]
+		},
+		"properties": {
+			"name": "海鲜e族(马王堆店)",
+			"lng": 113.04082699999999,
+			"lat": 28.198571000000001,
+			"address": "嘉雨路348号（富家花园西A6栋）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98157399999999, 28.195291000000001]
+		},
+		"properties": {
+			"name": "炊烟小炒黄牛肉(中心印象城·升级店)",
+			"lng": 112.98157399999999,
+			"lat": 28.195291000000001,
+			"address": "坡子街216号长沙中心印象城(原悦方)5楼（近1号门"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98583600000001, 28.215368999999999]
+		},
+		"properties": {
+			"name": "画意江南茶餐会馆(湘春路店)",
+			"lng": 112.98583600000001,
+			"lat": 28.215368999999999,
+			"address": "湘春路284号（省妇幼保健院西行300米路北"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.984835, 28.202793]
+		},
+		"properties": {
+			"name": "娟娟餐馆·在二楼(南阳街店)",
+			"lng": 112.984835,
+			"lat": 28.202793,
+			"address": "南阳街26号麓元酒店2楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.953155, 28.234175]
+		},
+		"properties": {
+			"name": "徐记海鲜(市府店)",
+			"lng": 112.953155,
+			"lat": 28.234175,
+			"address": "岳华路银馨家园B区10栋（近市政府）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.92549200000001, 28.189526000000001]
+		},
+		"properties": {
+			"name": "天怡·鱼工厂(梅溪湖店)",
+			"lng": 112.92549200000001,
+			"lat": 28.189526000000001,
+			"address": "西二环梅溪湖加油站南桃花岭天桥西侧200米（丝茅坪站旁）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.020971, 28.241161000000002]
+		},
+		"properties": {
+			"name": "聚鑫朋酸菜肥肠(四方坪总店)",
+			"lng": 113.020971,
+			"lat": 28.241161000000002,
+			"address": "湖南省长沙市开福区四方坪街道四方坪社区先福安置A7栋2号门面"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.041977, 28.204661000000002]
+		},
+		"properties": {
+			"name": "大鸽饭(马王堆店)",
+			"lng": 113.041977,
+			"lat": 28.204661000000002,
+			"address": "远大一路与双新街交叉口"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.990758, 28.202839000000001]
+		},
+		"properties": {
+			"name": "新长福(国贸店)",
+			"lng": 112.990758,
+			"lat": 28.202839000000001,
+			"address": "芙蓉中路一段540号国贸大厦2-3楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00357700000001, 28.190365]
+		},
+		"properties": {
+			"name": "明月山庄酒楼(窑岭店)",
+			"lng": 113.00357700000001,
+			"lat": 28.190365,
+			"address": "左家塘街道韶山北路252号(近窑岭西南角)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98374200000001, 28.198225999999998]
+		},
+		"properties": {
+			"name": "麓湘小镇(国金中心店)",
+			"lng": 112.98374200000001,
+			"lat": 28.198225999999998,
+			"address": "东牌楼街国金中心5楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.999242, 28.207984]
+		},
+		"properties": {
+			"name": "南景饭店(迎宾路店)",
+			"lng": 112.999242,
+			"lat": 28.207984,
+			"address": "迎宾路238号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.986052, 28.193394000000001]
+		},
+		"properties": {
+			"name": "文和友老长沙龙虾馆(化龙池店)",
+			"lng": 112.986052,
+			"lat": 28.193394000000001,
+			"address": "人民西路226号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.048599, 28.239488999999999]
+		},
+		"properties": {
+			"name": "西湖楼禧园·宴会聚餐(三一大道店)",
+			"lng": 113.048599,
+			"lat": 28.239488999999999,
+			"address": "金马路马栏山分场西湖楼演艺厅"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.982428, 28.194300999999999]
+		},
+		"properties": {
+			"name": "海底捞火锅(黄兴店)",
+			"lng": 112.982428,
+			"lat": 28.194300999999999,
+			"address": "湖南省长沙市天心区黄兴南路步行商业街西厢北栋E区3层3001号商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.91789, 28.236227]
+		},
+		"properties": {
+			"name": "窑塘村老家味道(杜鹃路店)",
+			"lng": 112.91789,
+			"lat": 28.236227,
+			"address": "杜鹃路黄陂塘公园内"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.028552, 28.148878]
+		},
+		"properties": {
+			"name": "李易面馆(树木岭店)",
+			"lng": 113.028552,
+			"lat": 28.148878,
+			"address": "圭塘路52号英郡年华公寓13栋107号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.983733, 28.198222000000001]
+		},
+		"properties": {
+			"name": "外婆家(国金店)",
+			"lng": 112.983733,
+			"lat": 28.198222000000001,
+			"address": "解放西路东牌楼长沙国金中心商场5层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.99870199999999, 28.185262000000002]
+		},
+		"properties": {
+			"name": "老师傅餐馆(长沙店)",
+			"lng": 112.99870199999999,
+			"lat": 28.185262000000002,
+			"address": "梓园路3片12栋1楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.010698, 28.118058999999999]
+		},
+		"properties": {
+			"name": "玉楼东(湘府路旗舰店)",
+			"lng": 113.010698,
+			"lat": 28.118058999999999,
+			"address": "湘府中路110号（高升家园C区旁）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.982384, 28.200367]
+		},
+		"properties": {
+			"name": "费大厨辣椒炒肉(7mall美食潮地标店)",
+			"lng": 112.982384,
+			"lat": 28.200367,
+			"address": "五一大道7MALL6楼6006号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.975684, 28.197112000000001]
+		},
+		"properties": {
+			"name": "壹盏灯(华远店)",
+			"lng": 112.975684,
+			"lat": 28.197112000000001,
+			"address": "湘江中路36号华远悠优港2楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.96162099999999, 28.223617000000001]
+		},
+		"properties": {
+			"name": "董记老清泉·北京涮羊肉(河西店)",
+			"lng": 112.96162099999999,
+			"lat": 28.223617000000001,
+			"address": "银盆岭街道银盆南路329号(香水湾酒店南边)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.99859600000001, 28.220686000000001]
+		},
+		"properties": {
+			"name": "大碗厨(东风路店)",
+			"lng": 112.99859600000001,
+			"lat": 28.220686000000001,
+			"address": "东风路103号（近博物馆）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01955100000001, 28.251185]
+		},
+		"properties": {
+			"name": "羊伙计·蒙古特色烤全羊(滨河南路店)",
+			"lng": 113.01955100000001,
+			"lat": 28.251185,
+			"address": "滨河南路447号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.94719499999999, 28.151745999999999]
+		},
+		"properties": {
+			"name": "上座·海鲜(阳光100店)",
+			"lng": 112.94719499999999,
+			"lat": 28.151745999999999,
+			"address": "岳麓街道阳光100黄鹤小区四片1栋(丰顺路与黄鹤路交汇处)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98608400000001, 28.170777000000001]
+		},
+		"properties": {
+			"name": "朱砂记(南湖店)",
+			"lng": 112.98608400000001,
+			"lat": 28.170777000000001,
+			"address": "长坡二街34号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.953599, 28.235544999999998]
+		},
+		"properties": {
+			"name": "冰火楼外膳(市府店)",
+			"lng": 112.953599,
+			"lat": 28.235544999999998,
+			"address": "杜鹃路99号天骄福邸综合楼裙楼南栋美雅斯酒店502号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.04244, 28.194354000000001]
+		},
+		"properties": {
+			"name": "胡毛肚火锅(扬帆总店)",
+			"lng": 113.04244,
+			"lat": 28.194354000000001,
+			"address": "法院路杨帆小区（芙蓉区人民法院北门正对面）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.999844, 28.208076999999999]
+		},
+		"properties": {
+			"name": "静心莲·禅茶素食(迎宾路店)",
+			"lng": 112.999844,
+			"lat": 28.208076999999999,
+			"address": "韭菜园街道迎宾路238号湖南省国防科技工业局大门右侧"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.980283, 28.198568000000002]
+		},
+		"properties": {
+			"name": "昱龙大盆牛蛙馆(三兴街总店)",
+			"lng": 112.980283,
+			"lat": 28.198568000000002,
+			"address": "坡子街街道解放西路三兴街39号(李富春故居斜对面)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.99251099999999, 28.226310999999999]
+		},
+		"properties": {
+			"name": "徐记海鲜(伍家岭店)",
+			"lng": 112.99251099999999,
+			"lat": 28.226310999999999,
+			"address": "潘家坪路39号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.989727, 28.193062000000001]
+		},
+		"properties": {
+			"name": "柳胖子家菜馆(人民西路店)",
+			"lng": 112.989727,
+			"lat": 28.193062000000001,
+			"address": "定王台街道人民西路469号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.021029, 28.241412]
+		},
+		"properties": {
+			"name": "新疆餐厅",
+			"lng": 113.021029,
+			"lat": 28.241412,
+			"address": "四方坪街道德雅路先福安置小区A6栋1层(四季美景对面)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01620200000001, 28.172673]
+		},
+		"properties": {
+			"name": "羊城佳宴(车站南路店)",
+			"lng": 113.01620200000001,
+			"lat": 28.172673,
+			"address": "车站南路239号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.929196, 28.215088999999999]
+		},
+		"properties": {
+			"name": "超仔虾城(财经学院店)",
+			"lng": 112.929196,
+			"lat": 28.215088999999999,
+			"address": "枫林二路西大门红绿灯处财专西门"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.93929, 28.220656999999999]
+		},
+		"properties": {
+			"name": "酒拾烤肉(河西店)",
+			"lng": 112.93929,
+			"lat": 28.220656999999999,
+			"address": "西湖街道金星中路裕民小区7栋（白鸽咀地铁站1号口步行400米）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.985574, 28.194095000000001]
+		},
+		"properties": {
+			"name": "夏记粉店(黄兴路步行街店)",
+			"lng": 112.985574,
+			"lat": 28.194095000000001,
+			"address": "观音井巷6号（近步行街中心广场）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.95647, 28.103189]
+		},
+		"properties": {
+			"name": "临红鱼馆",
+			"lng": 112.95647,
+			"lat": 28.103189,
+			"address": "湘江南路黄合村村委会西行100米"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98235200000001, 28.200315]
+		},
+		"properties": {
+			"name": "蛙来哒(7mall店)",
+			"lng": 112.98235200000001,
+			"lat": 28.200315,
+			"address": "五一大道635号7mall购物美学中心5楼5006铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.029269, 28.190308999999999]
+		},
+		"properties": {
+			"name": "多友元宝牛肉烤串(五一新村店)",
+			"lng": 113.029269,
+			"lat": 28.190308999999999,
+			"address": "人民东路永定社区A5栋一楼104号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.003691, 28.25807]
+		},
+		"properties": {
+			"name": "徐记海鲜(万国城店)",
+			"lng": 113.003691,
+			"lat": 28.25807,
+			"address": "福元西路199号万国城商业楼三楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.005859, 28.191137000000001]
+		},
+		"properties": {
+			"name": "熊猫烤串(人民路店)",
+			"lng": 113.005859,
+			"lat": 28.191137000000001,
+			"address": "人民中路49号101房"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.020155, 28.257088]
+		},
+		"properties": {
+			"name": "MT麦如麦立送(五矿live店)",
+			"lng": 113.020155,
+			"lat": 28.257088,
+			"address": "浏阳河街道福元西路508号五矿长沙LIVE30栋2楼（泰禾影城对面）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.986272, 28.196745]
+		},
+		"properties": {
+			"name": "松花江饺子馆(解放西路店)",
+			"lng": 112.986272,
+			"lat": 28.196745,
+			"address": "解放西路85号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.994817, 28.148381000000001]
+		},
+		"properties": {
+			"name": "易裕和(竹塘西路店)",
+			"lng": 112.994817,
+			"lat": 28.148381000000001,
+			"address": "竹塘西路180号天鸿小区12栋东一楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.96159, 28.197894000000002]
+		},
+		"properties": {
+			"name": "松花江饺子馆(新民路店)",
+			"lng": 112.96159,
+			"lat": 28.197894000000002,
+			"address": "桔子洲街道新民路8号(新民学会旧址)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98211499999999, 28.201291999999999]
+		},
+		"properties": {
+			"name": "甘长顺(五一广场店)",
+			"lng": 112.98211499999999,
+			"lat": 28.201291999999999,
+			"address": "五一西路188号五一广场西北角一楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.988209, 28.200415]
+		},
+		"properties": {
+			"name": "小龙坎火锅(五一店)",
+			"lng": 112.988209,
+			"lat": 28.200415,
+			"address": "定王台街道五一大道509号(中天国际通讯广场对面)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.093143, 28.253868000000001]
+		},
+		"properties": {
+			"name": "壹盏灯(星沙店)",
+			"lng": 113.093143,
+			"lat": 28.253868000000001,
+			"address": "178号华润万象汇2楼L235室"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98441, 28.198340999999999]
+		},
+		"properties": {
+			"name": "辣椒树汤汁辣椒炒肉(国金中心店)",
+			"lng": 112.98441,
+			"lat": 28.198340999999999,
+			"address": "东牌楼长沙国金中心第六层L616号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.980283, 28.144220000000001]
+		},
+		"properties": {
+			"name": "瓦舍酒香柴火鸡(新开铺店)",
+			"lng": 112.980283,
+			"lat": 28.144220000000001,
+			"address": "竹塘西路910号（钓朗渔具旁）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98168, 28.215281000000001]
+		},
+		"properties": {
+			"name": "矮子粉店(湘春路店)",
+			"lng": 112.98168,
+			"lat": 28.215281000000001,
+			"address": "湘春路339号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.026746, 28.195274000000001]
+		},
+		"properties": {
+			"name": "天胜放牛蛙(总店)",
+			"lng": 113.026746,
+			"lat": 28.195274000000001,
+			"address": "东二环恒达花园2-3栋110号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.990205, 28.203522]
+		},
+		"properties": {
+			"name": "八佰里潮汕牛肉火锅(轻工盐业大厦店)",
+			"lng": 112.990205,
+			"lat": 28.203522,
+			"address": "建湘路519号轻工盐业大厦1楼底商"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98427, 28.206067999999998]
+		},
+		"properties": {
+			"name": "皖北巫氏三胖地锅鸡(芙蓉总店)",
+			"lng": 112.98427,
+			"lat": 28.206067999999998,
+			"address": "望麓园街道中山路267号又一村大酒店二楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.950062, 28.174603000000001]
+		},
+		"properties": {
+			"name": "大碗先生(悦麓汇店)",
+			"lng": 112.950062,
+			"lat": 28.174603000000001,
+			"address": "麓山南路悦麓汇时尚商业广场2楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00453, 28.189399000000002]
+		},
+		"properties": {
+			"name": "衣川小森林·料理·寿司(鸿铭中心店)",
+			"lng": 113.00453,
+			"lat": 28.189399000000002,
+			"address": "韶山北路鸿铭中心V座102号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.030113, 28.189274999999999]
+		},
+		"properties": {
+			"name": "彭聚朝阳烧烤(五一新村总店)",
+			"lng": 113.030113,
+			"lat": 28.189274999999999,
+			"address": "冬青路永定社区B5栋"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.03370099999999, 28.153381]
+		},
+		"properties": {
+			"name": "重庆老甘火锅(五江天街店)",
+			"lng": 113.03370099999999,
+			"lat": 28.153381,
+			"address": "曲塘路五江天街北区一期3栋宴长沙旁"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00444299999999, 28.190045000000001]
+		},
+		"properties": {
+			"name": "禄上餐馆",
+			"lng": 113.00444299999999,
+			"lat": 28.190045000000001,
+			"address": "湖南省长沙市雨花区韶山北路243号宏景名厦c栋2层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.992133, 28.168320000000001]
+		},
+		"properties": {
+			"name": "阿杜打边炉(汇金国际店)",
+			"lng": 112.992133,
+			"lat": 28.168320000000001,
+			"address": "芙蓉中路汇金国际大厦银座2楼(近黄土岭地铁站)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.999843, 28.151658999999999]
+		},
+		"properties": {
+			"name": "犇犇烧烤(他城店)",
+			"lng": 112.999843,
+			"lat": 28.151658999999999,
+			"address": "新开铺街道韶山南路他城时代公寓1楼(海阔浴都对面)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.97802799999999, 28.19924]
+		},
+		"properties": {
+			"name": "胡记炸炸炸仅此一家(胡仁根店)",
+			"lng": 112.97802799999999,
+			"lat": 28.19924,
+			"address": "孚嘉巷7号（太平街与孚嘉巷交叉口）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.994424, 28.226136]
+		},
+		"properties": {
+			"name": "虾佬顶汤海鲜(开福店)",
+			"lng": 112.994424,
+			"lat": 28.226136,
+			"address": "芙蓉中路一段163号新时代广场北栋四楼401"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00141600000001, 28.137101999999999]
+		},
+		"properties": {
+			"name": "螺鼎记螺蛳粉(林科大直营店)",
+			"lng": 113.00141600000001,
+			"lat": 28.137101999999999,
+			"address": "林大路福邸雅苑晨光文具南10米"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.983103, 28.195228]
+		},
+		"properties": {
+			"name": "家福堂传统湘菜(黄兴南路步行街二店)",
+			"lng": 112.983103,
+			"lat": 28.195228,
+			"address": "黄兴南路步行街黄兴广场地铁一号出口背后茶颜悦色旁"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.037876, 28.196811]
+		},
+		"properties": {
+			"name": "四季缤纷椰子鸡(万家丽店)",
+			"lng": 113.037876,
+			"lat": 28.196811,
+			"address": "东屯渡街道万家丽国际购物广场6楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00918799999999, 28.178335000000001]
+		},
+		"properties": {
+			"name": "半庭新鲜餐厅(军培巷店)",
+			"lng": 113.00918799999999,
+			"lat": 28.178335000000001,
+			"address": "军培巷55号国家公务员培训中心院内（近中级人民法院）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.001788, 28.256630999999999]
+		},
+		"properties": {
+			"name": "味上湘菜馆(河马店)",
+			"lng": 113.001788,
+			"lat": 28.256630999999999,
+			"address": "福元西路万科城河马公园1F"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.02748, 28.159535999999999]
+		},
+		"properties": {
+			"name": "丹妹麻辣烫(树木岭店)",
+			"lng": 113.02748,
+			"lat": 28.159535999999999,
+			"address": "树木岭路84号（鑫兴佳园小区对面）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.020619, 28.117569]
+		},
+		"properties": {
+			"name": "味上湘菜馆(德思勤店)",
+			"lng": 113.020619,
+			"lat": 28.117569,
+			"address": "湘府中路18号德思勤·四季汇一期4楼36号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.007626, 28.218731999999999]
+		},
+		"properties": {
+			"name": "食膳颐园(烈士公园店)",
+			"lng": 113.007626,
+			"lat": 28.218731999999999,
+			"address": "车站北路湖南烈士公园东门(近红军渡)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.941743, 28.225498999999999]
+		},
+		"properties": {
+			"name": "肯德基(金星中路店)",
+			"lng": 112.941743,
+			"lat": 28.225498999999999,
+			"address": "金星中路湘腾商业广场KFC餐厅"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98522800000001, 28.222570000000001]
+		},
+		"properties": {
+			"name": "二马路老李炸炸炸",
+			"lng": 112.98522800000001,
+			"lat": 28.222570000000001,
+			"address": "黄兴北路大王家巷287号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.995846, 28.200862000000001]
+		},
+		"properties": {
+			"name": "阿捡忭京炸鸡(长沙韭菜园总店)",
+			"lng": 112.995846,
+			"lat": 28.200862000000001,
+			"address": "五一大道602号韭菜园站旁"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.979184, 28.178539000000001]
+		},
+		"properties": {
+			"name": "正宗东瓜山肉肠(东瓜山一条巷店)",
+			"lng": 112.979184,
+			"lat": 28.178539000000001,
+			"address": "一条巷2号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.868416, 28.205007999999999]
+		},
+		"properties": {
+			"name": "太二酸菜鱼(步步高梅溪新天地店)",
+			"lng": 112.868416,
+			"lat": 28.205007999999999,
+			"address": "枫林三路1099号步步高梅溪新天地L3层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.979201, 28.178508000000001]
+		},
+		"properties": {
+			"name": "丹丹热卤(东瓜山店)",
+			"lng": 112.979201,
+			"lat": 28.178508000000001,
+			"address": "裕南街社区东瓜山一条巷14号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.029043, 28.179456999999999]
+		},
+		"properties": {
+			"name": "德克士(高桥店)",
+			"lng": 113.029043,
+			"lat": 28.179456999999999,
+			"address": "高桥电脑大世界一楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.978865, 28.200578]
+		},
+		"properties": {
+			"name": "阅蛙",
+			"lng": 112.978865,
+			"lat": 28.200578,
+			"address": "太平老街新胜村11号（太平老街北门左边第一个巷子内）（靠五一路）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.084243, 28.234715999999999]
+		},
+		"properties": {
+			"name": "重庆知味居火锅(星沙店)",
+			"lng": 113.084243,
+			"lat": 28.234715999999999,
+			"address": "板仓南路尚都商业街二楼（中茂城对面）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98141200000001, 28.199356000000002]
+		},
+		"properties": {
+			"name": "姐弟俩土豆粉(药王街店)",
+			"lng": 112.98141200000001,
+			"lat": 28.199356000000002,
+			"address": "药王街40号(五一广场地铁站国金街3号口步行140米)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.90700200000001, 28.134017]
+		},
+		"properties": {
+			"name": "蜀大侠火锅(洋湖店)",
+			"lng": 112.90700200000001,
+			"lat": 28.134017,
+			"address": "学士路177号福天洋湖时代苑17栋福天商业广场F3层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01356, 28.212320999999999]
+		},
+		"properties": {
+			"name": "君庭中餐馆·宴会厅(年嘉湖店)",
+			"lng": 113.01356,
+			"lat": 28.212320999999999,
+			"address": "湘湖街道晚报大道7号(年嘉湖隧道口旁)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98005000000001, 28.196473000000001]
+		},
+		"properties": {
+			"name": "双燕楼(三王街店)",
+			"lng": 112.98005000000001,
+			"lat": 28.196473000000001,
+			"address": "三王街28号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.998013, 28.206462999999999]
+		},
+		"properties": {
+			"name": "仙峰天然面包(迎宾路店)",
+			"lng": 112.998013,
+			"lat": 28.206462999999999,
+			"address": "迎宾路153号诺尚公寓5楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.015277, 28.239791]
+		},
+		"properties": {
+			"name": "肉匠烧肉屋(四方坪店)",
+			"lng": 113.015277,
+			"lat": 28.239791,
+			"address": "学堂园路四方商贸城A-11栋一楼111门面"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.018845, 28.118176999999999]
+		},
+		"properties": {
+			"name": "TGS蒂歌斯(德思勤店)",
+			"lng": 113.018845,
+			"lat": 28.118176999999999,
+			"address": "湘府中路18号德思勤城市广场（迎新路一楼，四号停车入口旁）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.979181, 28.178424]
+		},
+		"properties": {
+			"name": "幸福味道(天心店)",
+			"lng": 112.979181,
+			"lat": 28.178424,
+			"address": "东瓜山一条巷与裕南街交叉口西南50米"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98414099999999, 28.211086999999999]
+		},
+		"properties": {
+			"name": "肖胖子猪油拌粉",
+			"lng": 112.98414099999999,
+			"lat": 28.211086999999999,
+			"address": "文星桥巷13号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.00223, 28.160678000000001]
+		},
+		"properties": {
+			"name": "肯德基(雨花亭店)",
+			"lng": 113.00223,
+			"lat": 28.160678000000001,
+			"address": "韶山中路421号凯德广场一楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.998102, 28.213408000000001]
+		},
+		"properties": {
+			"name": "好旺角(东风路店)",
+			"lng": 112.998102,
+			"lat": 28.213408000000001,
+			"address": "东风路22号烈士公园西门"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.993149, 28.139419]
+		},
+		"properties": {
+			"name": "豪客来牛排(天虹商场芙蓉店)",
+			"lng": 112.993149,
+			"lat": 28.139419,
+			"address": "芙蓉南路358号BOBO天下城内天虹商场1层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.036022, 28.186661999999998]
+		},
+		"properties": {
+			"name": "尊品牛排(西子一街店)",
+			"lng": 113.036022,
+			"lat": 28.186661999999998,
+			"address": "万家丽中路一段318号西子商业中心BC栋101"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.983369, 28.196249999999999]
+		},
+		"properties": {
+			"name": "罗家臭豆腐(步行街店)",
+			"lng": 112.983369,
+			"lat": 28.196249999999999,
+			"address": "育英街68号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.960702, 28.230433999999999]
+		},
+		"properties": {
+			"name": "必胜客(PH银盆岭万达店)",
+			"lng": 112.960702,
+			"lat": 28.230433999999999,
+			"address": "岳麓大道57号银盆岭万达广场一楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.961635, 28.229709]
+		},
+		"properties": {
+			"name": "思必客麻辣香锅(奥克斯广场店)",
+			"lng": 112.961635,
+			"lat": 28.229709,
+			"address": "岳麓大道57号银盆岭万达广场3层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.004103, 28.176053]
+		},
+		"properties": {
+			"name": "西施臭豆腐(桂花西路店)",
+			"lng": 113.004103,
+			"lat": 28.176053,
+			"address": "左家塘街道东塘牛角塘桂花西路121号1楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.981661, 28.195214]
+		},
+		"properties": {
+			"name": "DQ·蛋糕·冰淇淋(中心印象城店)",
+			"lng": 112.981661,
+			"lat": 28.195214,
+			"address": "坡子街216号悦方IDMALLB161商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.038523, 28.196289]
+		},
+		"properties": {
+			"name": "七七火锅(万家丽店)",
+			"lng": 113.038523,
+			"lat": 28.196289,
+			"address": "东屯渡街道万家丽商城负一楼(米小姐肉蟹煲旁边)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.975984, 28.196860000000001]
+		},
+		"properties": {
+			"name": "甜胡椒扒房(坡子街悠优港店)",
+			"lng": 112.975984,
+			"lat": 28.196860000000001,
+			"address": "湘江中路华远悠优港1楼一盏灯旁"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.868666, 28.203711999999999]
+		},
+		"properties": {
+			"name": "清真·高原姑娘牛肉面(步步高梅溪新天地店)",
+			"lng": 112.868666,
+			"lat": 28.203711999999999,
+			"address": "枫林三路步步高梅溪新天地购物中心B区L3层336-10号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.020499, 28.236989999999999]
+		},
+		"properties": {
+			"name": "好旺角(金帆路店)",
+			"lng": 113.020499,
+			"lat": 28.236989999999999,
+			"address": "金帆小区德雅路1261号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.079666, 28.233998]
+		},
+		"properties": {
+			"name": "炉界日本料理",
+			"lng": 113.079666,
+			"lat": 28.233998,
+			"address": "向阳路金科时代中心5栋二楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01844699999999, 28.117488000000002]
+		},
+		"properties": {
+			"name": "转转乐(德思勤四季汇店)",
+			"lng": 113.01844699999999,
+			"lat": 28.117488000000002,
+			"address": "湖南省长沙市雨花区府中路18号德思勤四季汇B1"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98262, 28.200388]
+		},
+		"properties": {
+			"name": "乐刻时韩式创意菜Loccos Cook(五一广场7mall店)",
+			"lng": 112.98262,
+			"lat": 28.200388,
+			"address": "黄兴中路五一大道635号7mall3层3001号商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.052858, 28.161975000000002]
+		},
+		"properties": {
+			"name": "茶颜悦色(沙湾保利一楼茶叶子店)",
+			"lng": 113.052858,
+			"lat": 28.161975000000002,
+			"address": "湖南省长沙市雨花区劳动东路268号吉联MALL1楼1015-1号铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.950298, 28.175896999999999]
+		},
+		"properties": {
+			"name": "洪福老嘉杀猪粉(大学城店)",
+			"lng": 112.950298,
+			"lat": 28.175896999999999,
+			"address": "麓山南路414-1号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.045698, 28.169871000000001]
+		},
+		"properties": {
+			"name": "尊宝比萨(茂华国际店)",
+			"lng": 113.045698,
+			"lat": 28.169871000000001,
+			"address": "石坝路茂华国际湘B14栋107门面"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.020579, 28.116887999999999]
+		},
+		"properties": {
+			"name": "八色烤肉(德思勤四季汇店)",
+			"lng": 113.020579,
+			"lat": 28.116887999999999,
+			"address": "湖南省长沙市雨花区府中路18号德思勤四季汇B1"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.01431599999999, 28.201577]
+		},
+		"properties": {
+			"name": "宝物珑意大利餐吧",
+			"lng": 113.01431599999999,
+			"lat": 28.201577,
+			"address": "晓园公园内云水居一楼(近火车站)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.003232, 28.077061]
+		},
+		"properties": {
+			"name": "双燕楼(友阿奥特莱斯店)",
+			"lng": 113.003232,
+			"lat": 28.077061,
+			"address": "芙蓉南路三段27号友阿奥特莱斯"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.084489, 28.237297000000002]
+		},
+		"properties": {
+			"name": "仟吉(星沙一桥店)",
+			"lng": 113.084489,
+			"lat": 28.237297000000002,
+			"address": "星沙二区板仓路16、18号（迪信通旁边）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.984071, 28.189374000000001]
+		},
+		"properties": {
+			"name": "仟吉(南门口店)",
+			"lng": 112.984071,
+			"lat": 28.189374000000001,
+			"address": "城南西路228号南门口海富大厦一楼近花园街（阳光医院向西斜对面）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.029802, 28.210006]
+		},
+		"properties": {
+			"name": "广西第一粉螺蛳粉(火星金竹苑店)",
+			"lng": 113.029802,
+			"lat": 28.210006,
+			"address": "金竹苑1栋127号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.982427, 28.200374]
+		},
+		"properties": {
+			"name": "胡途爪·湘式热卤(7mall店)",
+			"lng": 112.982427,
+			"lat": 28.200374,
+			"address": "五一大道7MALL美食2楼"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.04103499999999, 28.139963999999999]
+		},
+		"properties": {
+			"name": "手感麦夫(喜盈门店)",
+			"lng": 113.04103499999999,
+			"lat": 28.139963999999999,
+			"address": "湖南省长沙市雨花区圭塘街道万家丽中路三段36号喜盈门范城1栋G层B1-308号商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.960773, 28.230173000000001]
+		},
+		"properties": {
+			"name": "仟吉(银盆岭万达广场店)",
+			"lng": 112.960773,
+			"lat": 28.230173000000001,
+			"address": "岳麓大道银盆岭万达广场1楼3号门入口处"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.99207699999999, 28.243016999999998]
+		},
+		"properties": {
+			"name": "Muma Cake木马蛋糕(北辰·三角洲奥城店)",
+			"lng": 112.99207699999999,
+			"lat": 28.243016999999998,
+			"address": "黄兴北路北辰三角洲C3区G层37号商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.994449, 28.230384999999998]
+		},
+		"properties": {
+			"name": "吴满满的油泼面(华创国际店)",
+			"lng": 112.994449,
+			"lat": 28.230384999999998,
+			"address": "芙蓉中路华创国际广场负一层D-107A号商铺"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98979300000001, 28.214503000000001]
+		},
+		"properties": {
+			"name": "枫林红了·忆砵粉(泊富店)",
+			"lng": 112.98979300000001,
+			"lat": 28.214503000000001,
+			"address": "湘春路妇幼保健院对过泊富国际广场负一层外街"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.985271, 28.197330000000001]
+		},
+		"properties": {
+			"name": "长沙尼依格罗·欣厨Niccolo Kitchen",
+			"lng": 112.985271,
+			"lat": 28.197330000000001,
+			"address": "解放西路188号国金中心1号楼93层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.940016, 28.253114]
+		},
+		"properties": {
+			"name": "仟吉(钰龙天下店)",
+			"lng": 112.940016,
+			"lat": 28.253114,
+			"address": "金星北路钰龙天下二期西区商业广场1层012、013号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.114358, 28.221658000000001]
+		},
+		"properties": {
+			"name": "书亦烧仙草(水利水电店)",
+			"lng": 113.114358,
+			"lat": 28.221658000000001,
+			"address": "泉塘社区安置房二期35栋327号101室"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.991405, 28.154561999999999]
+		},
+		"properties": {
+			"name": "仟吉(浦沅店)",
+			"lng": 112.991405,
+			"lat": 28.154561999999999,
+			"address": "芙蓉中路558号巧克力空间107号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.000895, 28.196825]
+		},
+		"properties": {
+			"name": "CoCo都可(解放中路店)",
+			"lng": 113.000895,
+			"lat": 28.196825,
+			"address": "解放中路80号（文艺路口西）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.978722, 28.200453]
+		},
+		"properties": {
+			"name": "白熊咖啡清吧",
+			"lng": 112.978722,
+			"lat": 28.200453,
+			"address": "太平街新胜村2号"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.002481, 28.160340999999999]
+		},
+		"properties": {
+			"name": "大官米线(凯德广场店)",
+			"lng": 113.002481,
+			"lat": 28.160340999999999,
+			"address": "韶山中路421号凯德广场1楼（近新建西路）"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.999292, 28.138262000000001]
+		},
+		"properties": {
+			"name": "青木记仙豆糕(林大店)",
+			"lng": 112.999292,
+			"lat": 28.138262000000001,
+			"address": "新开铺街道青园路382号福邸雅苑地下室2001(惠必购超市2楼)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.99477899999999, 28.230319999999999]
+		},
+		"properties": {
+			"name": "鲜芋仙(华创国际广场店)",
+			"lng": 112.99477899999999,
+			"lat": 28.230319999999999,
+			"address": "芙蓉中路一段113号华创国际广场负一层"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.980282, 28.196383999999998]
+		},
+		"properties": {
+			"name": "火宫殿(坡子街总店)",
+			"lng": 112.980282,
+			"lat": 28.196383999999998,
+			"address": "三王街火宫殿127号"
+		}
+	}]
+}

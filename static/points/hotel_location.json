@@ -1,0 +1,956 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙图亿东方酒店",
+				"address": "长沙市开福区黄兴中路81号(五一广场地铁站6A口步行90米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.976046,
+					28.196922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "亨莱酒店",
+				"address": "长沙市芙蓉区中山路267号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.977556,
+					28.200118
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "W印象酒店",
+				"address": "长沙市天心区芙蓉中路二段198号芙蓉中路二段198号新世纪大厦 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.984505,
+					28.175847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "山水悦江景酒店",
+				"address": "长沙市天心区解放西路江与城又名江岸丽都大厦"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.969138,
+					28.192768
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "郡曼揽江高空江景酒店",
+				"address": "长沙市天心区湘江中路2段18号江与城10楼1022(异国风情同栋)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.969218,
+					28.193293
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "XM希慕酒店",
+				"address": "长沙市开福区韭菜园街道芙蓉中路一段433号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.986766,
+					28.207007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "轻宿米朵江景酒店",
+				"address": "长沙市开福区芙蓉中路一段479号建鸿达现代城F21层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.986651,
+					28.204188
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙方麓X酒店",
+				"address": "长沙市天心区芙蓉中路二段122号凯旋大厦F1层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.986357,
+					28.184535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "潮上野酒店",
+				"address": "长沙市开福区黄兴北路与营盘路辅路交叉口南100米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975269,
+					28.204092
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "仰望云天酒店",
+				"address": "长沙市芙蓉区五一大道766号中天广场写字楼(芙蓉广场地铁站5号出口步行20米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.983429,
+					112.983429
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "云端1916hotel",
+				"address": "长沙市芙蓉区五一大道762号中天广场写字楼23楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.983426,
+					28.195709
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "朵兰达LAB酒店",
+				"address": "长沙市芙蓉区蔡锷中路48号永华大厦F15层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.981332,
+					28.194082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "临里棠悦酒店",
+				"address": "长沙市芙蓉区解放西路262号城市生活家三楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.977916,
+					28.191866
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "S漫澜酒店",
+				"address": "长沙市天心区人民西路165号(黄兴广场地铁站2号口步行250米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973829,
+					28.188787
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长公馆隐酒店",
+				"address": "长沙市天心区坡子街华远国际公寓4012"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.969911,
+					28.190419
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙梅溪湖豪生酒店",
+				"address": "长沙市岳麓区梅溪湖街道枫林三路859号宜居雅苑17-ABCD栋及西区地下室534-1534"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.875689,
+					28.196176
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "延泊公寓酒店",
+				"address": "长沙市天心区书院南路799号东怡外国A座一楼大堂"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.970177,
+					28.163819
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "如家精选酒店",
+				"address": "长沙市岳麓区枫林三路268号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.901321,
+					28.207394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙芙蓉中路天健城亚朵酒店",
+				"address": "长沙市开福区开福寺东路天健城14栋46-52楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.984916,
+					28.222348
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "世纪铂郡酒店",
+				"address": "长沙市雨花区韶山北路汇富中心254-15号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.996978,
+					28.18362
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "朵兰达V酒店",
+				"address": "长沙市开福区寿星街2号(培元桥地铁站2号口步行480米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973901,
+					28.20317
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙皇爵假日酒店",
+				"address": "长沙市芙蓉区滩头坪路308号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.020287,
+					28.18347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "黄兴广场",
+				"address": "湖南省长沙市天心区黄兴中路与人民西路交汇处90米(黄兴广场地铁站2号口旁)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.976426,
+					28.216342
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "亚朵X酒店(长沙远大一路锦泰广场地铁站)",
+				"address": "长沙市芙蓉区远大一路348号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.02222,
+					28.197004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙逅山寻酒店",
+				"address": "长沙市开福区福元中路与东二环交汇处东南角富兴旺角4栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.019972,
+					28.251318
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "尊澜一线江景酒店",
+				"address": "长沙市天心区湘江中路二段36号华远华中心2号楼46楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.970073,
+					28.190581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "森宸酒店",
+				"address": "长沙市开福区五一大道新世界大厦4层414室"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975925,
+					28.196136
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "仰望星辰酒店",
+				"address": "长沙市芙蓉区中国五一广场中山路三角花园星城北座一楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978795,
+					28.199392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Y60-SKYLINE天际江景酒店",
+				"address": "长沙市开福区高升门巷与黄兴北路交叉口东南60米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.977484,
+					28.207232
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "C潮酒店",
+				"address": "长沙市岳麓区潇湘北路启迪协信A5栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.958971,
+					28.243306
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "仰望未来酒店",
+				"address": "长沙市芙蓉区五一大道766号中天广场写字楼5F"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.983227,
+					28.195723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "湘遇欢朋酒店",
+				"address": "长沙市开福区福元西路589号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.015846,
+					28.252236
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "君屿酒店(长沙中南广电世界之窗店)",
+				"address": "长沙市长沙县金茂西路汽车世界G25栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.063762,
+					28.234423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "莫林酒店(长沙世界之窗广电中心店)",
+				"address": "长沙市长沙县万家丽北路与清水路交叉口东北100米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.053885,
+					28.254432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙铜官窑古镇主题酒店",
+				"address": "长沙市望城区铜官窑路1号铜官窑景区A01-01栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.834736,
+					28.406984
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "紫鑫戴斯大酒店",
+				"address": "长沙市望城区高塘岭街道雷锋大道1698号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.828883,
+					28.356097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "宜尚酒店",
+				"address": "长沙市望城区高塘岭街道联诚雅郡16栋14-20层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.827724,
+					28.360355
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙金融中心智选假日酒店",
+				"address": "长沙市开福区芙蓉中路1段303号富兴金融中心T6栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.988964,
+					28.216565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙滨江金融中心亚朵酒店",
+				"address": "长沙市岳麓区银盆岭街道银双路49号弘坤君寓大厦"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.955174,
+					28.222178
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "张家界酒店",
+				"address": "长沙市芙蓉区车站北路兑泽街1号,近烈士公园"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.008354,
+					28.214262
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "金湖湾度假酒店",
+				"address": "长沙市岳麓区坪塘大道与福祥路交汇处"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.93756,
+					28.123788
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维也纳酒店(长沙洋湖新城地铁站店)",
+				"address": "长沙市岳麓区先导路与滨柳路交汇处雅和苑1号楼1楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.942989,
+					28.130322
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "荟辰酒店",
+				"address": "长沙市岳麓区景园路239号(洋湖湿地地铁站3号口步行90米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.938716,
+					28.115212
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "桔子酒店(长沙国金中心店)",
+				"address": "长沙市芙蓉区解放西路97号国金中心T1号写字楼正对面(登隆街旁)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.979172,
+					28.191157
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维也纳酒店(IFS国金中心店)",
+				"address": "长沙市芙蓉区芙蓉中路218号和府大厦"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.98479,
+					28.197887
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "华天精选酒店",
+				"address": "长沙市天心区五一大道701号(五一广场地铁站1号口步行180米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973983,
+					28.194922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "柒叶阳光酒店",
+				"address": "长沙市岳麓区桔子洲街道天马路116号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.948469,
+					28.168164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维也纳酒店(长沙岳麓山橘子洲大学城西湖)",
+				"address": "长沙市岳麓区西湖街道枫林一路423号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.944391,
+					28.200798
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "橘子臻品酒店",
+				"address": "湖南省长沙市望城区靖港镇"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.9955,
+					28.143534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "尊上酒店(长沙万家丽广场地铁站店)",
+				"address": "长沙市芙蓉区万家丽路中路一段118号(新玉楼东对面)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.029966,
+					28.18949
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "欧曼酒店(万家丽广场店)",
+				"address": "长沙市芙蓉区万家丽中路一段139号宽寓大厦5层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.031098,
+					28.188326
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "富米优品酒店",
+				"address": "长沙市雨花区六号路与嘉雨路交叉口东南80米"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.034938,
+					28.179446
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维也纳国际酒店(长沙五一广场店)",
+				"address": "长沙市开福区湘雅路庆和里27号(开福寺地铁站3号口步行390米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.980189,
+					28.218762
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙君悦公寓酒店",
+				"address": "长沙市天心区五一大道689号景江东方大厦905房"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.974095,
+					28.194941
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "宜庭精选酒店",
+				"address": "长沙市开福区湘春路218号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.980957,
+					28.20919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "FunGee欢致酒店(长沙IFS国金中心南门口地铁站店)",
+				"address": "长沙市天心区书院路851号(靠近黄兴路步行街南门口入口)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972745,
+					28.18303
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙天舒酒店",
+				"address": "长沙市天心区华远国际公寓20层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.969879,
+					28.19035
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙异国印象假日酒店",
+				"address": "长沙市芙蓉区五一大道573号(五一广场地铁站5号口步行130米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.979348,
+					28.195002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "凯里亚德酒店(长沙芙蓉中路湘雅附一店)",
+				"address": "长沙市开福区潘家坪路29号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.986018,
+					28.220625
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "华悦阳光酒店",
+				"address": "长沙市开福区芙蓉中路一段2号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.986857,
+					28.227705
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "方寸酒店",
+				"address": "长沙市芙蓉区五一大道776号中天广场写字楼4楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.983377,
+					28.195675
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "墨客欢庭酒店",
+				"address": "长沙市开福区芙蓉北路德峰小区A区公寓楼一楼"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.957787,
+					28.311287
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "泊然酒店(长沙月亮岛店)",
+				"address": "长沙市望城区月亮岛街道竹影新园S5栋(泊然酒店)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.905833,
+					28.297899
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "美豪·丽致酒店(长沙月亮岛店)",
+				"address": "长沙市望城区月亮岛街道竹影新园S5栋(泊然酒店)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.905833,
+					28.297899
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "泊然酒店(长沙月亮岛店)",
+				"address": "长沙市望城区月亮岛街道长润小区印湘江9栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.927635,
+					28.296339
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "慧友国际酒店(长沙梅溪湖西地铁站店)",
+				"address": "长沙市岳麓区连湖8路6号熙科美寓A栋"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.884926,
+					28.184406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维也纳智好酒店(长沙麓谷公园地铁站店)",
+				"address": "长沙市岳麓区麓湖路39号金荣央谷金座B座-工商银行旁"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.896206,
+					28.217033
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "维纳斯国际酒店(长沙梅溪湖店)",
+				"address": "长沙市岳麓区平川路239号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.890506,
+					28.202345
+				]
+			}
+		}
+	]
+}

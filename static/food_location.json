@@ -1,0 +1,298 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"name": "茶颜悦色",
+				"address": "湖南省长沙市天心区太平街"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.97189,
+					28.193944
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙臭豆腐",
+				"address": "湖南省长沙市天心区金线街1号(董顺桃长沙臭豆腐)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.971643,
+					28.192369
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "糖油粑粑",
+				"address": "湖南省长沙市天心区五一大道753号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972304,
+					28.19375
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "酱板鸭",
+				"address": "长沙市天心区解放西路197号长沙印象汇东都市随廊"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975841,
+					28.19062
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "口味虾",
+				"address": "长沙市开福区通泰街街道五一西路188号1层五一广场慕弈酒店2层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975796,
+					28.195868
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "费大厨",
+				"address": "长沙市天心区黄兴广场步行街地铁一号线1号出口太傅殿2层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.976517,
+					28.18984
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "炊烟小炒黄牛肉",
+				"address": "长沙市天心区天心区中心印象城5层"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975573,
+					28.190144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "笨萝卜",
+				"address": "湖南省长沙市天心区五一大道753号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972655,
+					28.193649
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "长沙米粉",
+				"address": "长沙市天心区太平街124号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.972312,
+					28.193613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "剁椒鱼头",
+				"address": "长沙市天心区黄兴南路步行商业街西厢北栋F区2层2201-1商铺"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975734,
+					28.190582
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "嗦螺",
+				"address": "长沙市天心区太平街中间福泉珠宝首饰店对面进来马家巷9号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.971404,
+					28.193458
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "姊妹团子",
+				"address": "长沙市芙蓉区五一大道93号(袁家岭地铁站2号口步行310米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.004208,
+					28.193958
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "麻辣子鸡",
+				"address": "长沙市芙蓉区东牌楼街111号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978238,
+					28.193422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "毛氏红烧肉",
+				"address": "湖南省长沙市天心区五一大道753号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973841,
+					28.190487
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "口味蟹",
+				"address": "长沙市芙蓉区人民西路335号(黄兴广场地铁站2号口步行290米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.979263,
+					28.18849
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "刮凉粉",
+				"address": "长沙市天心区坡子街号127号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973817,
+					28.190469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龙脂猪血",
+				"address": "长沙市天心区坡子街号127号"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.973817,
+					28.190469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "德园包子",
+				"address": "长沙市芙蓉区犁头后街40号新世界商贸城"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.978813,
+					28.193851
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "红烧猪脚",
+				"address": "长沙市芙蓉区五一大道93号(袁家岭地铁站2号口步行310米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.004203,
+					28.19395
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "紫苏桃子姜",
+				"address": "长沙市天心区学院街38号(南门口地铁站1号口步行260米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.974344,
+					28.185305
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "浪哥捆鸡",
+				"address": "长沙市天心区上碧湘街9号(南门口地铁站2号口步行130米)"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					112.975597,
+					28.182543
+				]
+			}
+		}
+	]
+}
